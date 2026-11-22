@@ -1,0 +1,7 @@
+BIG ARCH おすすめ商品紹介文更新
+
+1. ZIPを解凍してください。
+2. GitHubの bigarch3110-star/big-arch-website にある index.html を、同梱の index.html で置き換えてください。
+3. Commit changes を実行し、数分後にホームページの GEAR 欄をご確認ください。
+
+変更箇所：GEAR内のIRCとFlowVisionの紹介文のみ。真也さんの経歴、その他の本文・リンク・デザインは変更していません。
